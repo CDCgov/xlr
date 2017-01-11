@@ -2,9 +2,6 @@
 
 This Github organization was created for use by [CDC](http://www.cdc.gov) programs to collaborate on public health surveillance related projects in support of the [CDC Surveillance Strategy](http://www.cdc.gov/surveillance). This third party web application is not hosted by the CDC, but is used by CDC and its partners to share information and collaborate on software.
 
-This repository serves as a template for other repositories to follow in order to provide the appropriate notices for users in regards to privacy protection, contribution, licensing, copyright, records management and collaboration.
-
-
 ##Public Domain: 
 This project constitutes a work of the United States Government and is not subject to domestic copyright protection under 17 USC § 105. This project is in the public domain within the United States, and copyright and related rights in 
 the work worldwide are waived through the [CC0 1.0 Universal public domain dedication](https://creativecommons.org/publicdomain/zero/1.0/). All contributions 
@@ -32,5 +29,5 @@ All comments, messages, pull requests, and other submissions received through CD
 ##Records
 This project is not a source of government records, but is a copy to increase collaboration and collaborative potential. All government records will be published through the [CDC web site](http://www.cdc.gov.)
 
-##Hat-tips
-Thanks to [18F](https://18f.gsa.gov/)'s [open source policy](https://github.com/18F/open-source-policy) and [code of conduct](https://github.com/CDCgov/code-of-conduct/blob/master/code-of-conduct.md) that were very useful in setting up this GitHub organization. Thanks to CDC's [Informatics Innovation Unit](https://www.phiresearchlab.org/index.php/code-of-conduct/) that was helpful in modeling the code of conduct.
+##Notices
+Please refer to [CDC's Template Repository](https://github.com/CDCgov/template) for more information about [contributing to this repository](https://github.com/CDCgov/template/blob/master/CONTRIBUTING.md), [public domain notices and disclaimers](https://github.com/CDCgov/template/blob/master/DISCLAIMER.md), and [code of conduct](https://github.com/CDCgov/template/blob/master/code-of-conduct.md).
